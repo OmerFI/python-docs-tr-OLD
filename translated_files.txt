@@ -1,4 +1,5 @@
 tutorial/index.po
+tutorial/appetite.po
 contents.po
 sphinx.po
-copyright.po (in process)
+license.po
