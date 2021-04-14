@@ -1,0 +1,4 @@
+tutorial/index.po
+contents.po
+sphingx.po
+copyright.po (in process)
