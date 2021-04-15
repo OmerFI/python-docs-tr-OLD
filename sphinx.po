@@ -56,7 +56,7 @@ msgstr "Python %(version) sürümünde yenilikler neler?"
 
 #: tools/templates/indexcontent.html:14
 msgid "or <a href=\"%(whatsnew_index)s\">all \"What's new\" documents</a> since 2.0"
-msgstr "veya <a href=\"%(whatsnew_index)s\">tüm \"Yenilikler\" belgeleri</a> since 2.0"
+msgstr "veya 2.0'dan itibaren <a href=\"%(whatsnew_index)s\">tüm \"Yenilikler\" dokümanları</a>"
 
 #: tools/templates/indexcontent.html:15
 msgid "Tutorial"
