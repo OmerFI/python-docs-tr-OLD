@@ -1,4 +1,4 @@
 tutorial/index.po
 contents.po
-sphingx.po
+sphinx.po
 copyright.po (in process)
