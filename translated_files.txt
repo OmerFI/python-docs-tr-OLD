@@ -1,5 +1,6 @@
-tutorial/index.po
-tutorial/appetite.po
 contents.po
 sphinx.po
 license.po
+tutorial/index.po
+tutorial/appetite.po
+tutorial/interpreter.po
